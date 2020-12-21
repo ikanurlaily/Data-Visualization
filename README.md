@@ -17,7 +17,7 @@ This explanation does not require the use of certain applications or special tec
 _3. Guidelines and flow, not just arranging pictures._  
 The order and placement of visual elements must be able to guide the audience to understand the problem to the solution. Choosing the right type and size, color, adjusting the visual layout, and adjusting the pattern of visual elements is important so that the audience understands the meaning and message that is generated from the data.  
 _4. Concept and frame of mind, not just visual creativity._  
-Data visualization is transferring concepts and ways of thinking over data and the analysis process in a way that is easily understood by humans. The goal is to convince the audience with the concept and frame of mind that was built. The data and analysis provide corroboration and incontrovertible evidence for the concept.
+Data visualization is transferring concepts and ways of thinking over data and the analysis process in a way that is easily understood by humans. The goal is to convince the audience with the concept and frame of mind that was built. The data and analysis provide corroboration and incontrovertible evidence for the concept.  
 _5.Contextual._   
 The data presented must support each other. The visual series that is made must have the same context and be well organized so as to add clarity to the meaning of the message to be conveyed.
 
